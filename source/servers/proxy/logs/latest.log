@@ -1,0 +1,7 @@
+[14:32:52] [main/INFO]: Using standard Java JCE cipher.
+[14:32:52] [main/INFO]: Using standard Java compressor.
+[14:32:52] [main/INFO]: Enabled FlameCord version 0.2.2 SNAPSHOT
+[14:32:52] [main/INFO]: Loaded plugin BungeeCore version 1.0 by CobelPvP Development Team
+[14:32:52] [main/WARN]: Forced host server pvp is not defined
+[14:32:52] [main/INFO]: Enabled plugin BungeeCore version 1.0 by CobelPvP Development Team
+[14:32:52] [Netty Boss IO Thread #0/INFO]: Listening on /0.0.0.0:25565

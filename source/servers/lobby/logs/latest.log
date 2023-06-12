@@ -1,0 +1,104 @@
+[14:32:49] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[14:32:50] [Server thread/INFO]: Loading properties
+[14:32:50] [Server thread/INFO]: Default game type: SURVIVAL
+[14:32:50] [Server thread/INFO]: §aThis server is running CobelPvP Spigot version 1.7.10-SNAPSHOT (MC: 1.7.10)§6 (Implementing API version CraftBukkit 1.7)
+[14:32:50] [Server thread/INFO]: Debug logging is disabled
+[14:32:50] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:32:50] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:32:50] [Server thread/INFO]: Generating keypair
+[14:32:50] [Server thread/INFO]: Starting Minecraft server on *:25566
+[14:32:50] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[14:32:50] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1;no_git_id
+[14:32:50] [Server thread/INFO]: [Queue-Bukkit] Loading Queue-Bukkit v1.0
+[14:32:50] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v2.0
+[14:32:50] [Server thread/INFO]: [Atheneum] Loading Atheneum v1.2.8
+[14:32:50] [Server thread/INFO]: [Engine] Loading Engine v1.9
+[14:32:50] [Server thread/INFO]: [Redstone] Loading Redstone v1.0
+[14:32:50] [Server thread/INFO]: [Hub] Loading Hub v1.0
+[14:32:50] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v2.0
+[14:32:50] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[14:32:50] [Server thread/INFO]: [Atheneum] Enabling Atheneum v1.2.8
+[14:32:50] [Server thread/INFO]: Using cached PropertyMap for skin...
+[14:32:50] [Server thread/INFO]: [Engine] Enabling Engine v1.9
+[14:32:50] [Server thread/WARN]: [Server thread] INFO org.mongodb.driver.cluster - Cluster created with settings {hosts=[127.0.0.1:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+[14:32:50] [Server thread/WARN]: [Server thread] INFO org.mongodb.driver.cluster - Cluster created with settings {hosts=[127.0.0.1:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+[14:32:50] [cluster-ClusterId{value='648764d207c1be08f4bd182f', description='null'}-127.0.0.1:27017/WARN]: [cluster-ClusterId{value='648764d207c1be08f4bd182f', description='null'}-127.0.0.1:27017] INFO org.mongodb.driver.connection - Opened connection [connectionId{localValue:2, serverValue:177}] to 127.0.0.1:27017
+[14:32:50] [cluster-ClusterId{value='648764d207c1be08f4bd182e', description='null'}-127.0.0.1:27017/WARN]: [cluster-ClusterId{value='648764d207c1be08f4bd182e', description='null'}-127.0.0.1:27017] INFO org.mongodb.driver.connection - Opened connection [connectionId{localValue:1, serverValue:176}] to 127.0.0.1:27017
+[14:32:50] [cluster-ClusterId{value='648764d207c1be08f4bd182e', description='null'}-127.0.0.1:27017/WARN]: [cluster-ClusterId{value='648764d207c1be08f4bd182e', description='null'}-127.0.0.1:27017] INFO org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=127.0.0.1:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[6, 0, 6]}, minWireVersion=0, maxWireVersion=17, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=2477000}
+[14:32:50] [cluster-ClusterId{value='648764d207c1be08f4bd182f', description='null'}-127.0.0.1:27017/WARN]: [cluster-ClusterId{value='648764d207c1be08f4bd182f', description='null'}-127.0.0.1:27017] INFO org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=127.0.0.1:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[6, 0, 6]}, minWireVersion=0, maxWireVersion=17, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=2518400}
+[14:32:51] [Server thread/INFO]: [Engine] Hooked into ProtocolLib
+[14:32:51] [Server thread/WARN]: [Server thread] INFO org.mongodb.driver.connection - Opened connection [connectionId{localValue:3, serverValue:178}] to 127.0.0.1:27017
+[14:32:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:32:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:32:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:32:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:32:51] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[14:32:51] [ForkJoinPool.commonPool-worker-9/INFO]: [0;30;1m([0;34;1mHub[0;30;1m) [0;36;1mis now online[0;36;1m.[m
+[14:32:51] [Server thread/INFO]: Preparing level "world"
+[14:32:51] [Server thread/INFO]: -------- World Settings For [world] --------
+[14:32:51] [Server thread/INFO]: View Distance: 10
+[14:32:51] [Server thread/INFO]: Mobs enabled: true
+[14:32:51] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[14:32:51] [Server thread/INFO]: Clear tick list: false
+[14:32:51] [Server thread/INFO]: Experience Merge Radius: 6.0
+[14:32:51] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:32:51] [Server thread/INFO]: Item Merge Radius: 3.5
+[14:32:51] [Server thread/INFO]: Item Despawn Rate: 5000
+[14:32:51] [Server thread/INFO]: Experience Orb Despawn Rate: 6000
+[14:32:51] [Server thread/INFO]: Arrow Despawn Rate: 300
+[14:32:51] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:32:51] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[14:32:51] [Server thread/INFO]: Max Entity Collisions: 6
+[14:32:51] [Server thread/INFO]: Enderpearls can pass non-solid blocks: false
+[14:32:51] [Server thread/INFO]: Mob Spawn Range: 5
+[14:32:51] [Server thread/INFO]: Anti X-Ray: false
+[14:32:51] [Server thread/INFO]: 	Engine Mode: 1
+[14:32:51] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[14:32:51] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[14:32:51] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:32:51] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:32:51] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:32:51] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:32:51] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:32:51] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:32:51] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:32:51] [Server thread/INFO]: Structure Info Saving: true
+[14:32:51] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[14:32:51] [Server thread/INFO]: Alternative Hopper Ticking: false
+[14:32:51] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[14:32:51] [Server thread/INFO]: Sending up to 5 chunks per packet
+[14:32:51] [Server thread/INFO]: Random Lighting Updates: false
+[14:32:51] [Server thread/INFO]: Nerfing mobs spawned from spawners: true
+[14:32:51] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 16 / Other 64
+[14:32:51] [Server thread/INFO]: Max TNT Explosions: 100
+[14:32:51] [Server thread/INFO]: -------- World Settings For [world] --------
+[14:32:51] [Server thread/INFO]: WorldServer TickNextTickList cap set at 10000
+[14:32:51] [Server thread/INFO]: WorldServer TickNextTickList cap always processes redstone: false
+[14:32:51] [Server thread/INFO]: Keep spawn chunk loaded: true
+[14:32:51] [Server thread/INFO]: World async lighting: true
+[14:32:51] [Server thread/INFO]: Inverted Redstone Lamps: false
+[14:32:51] [Server thread/INFO]: Water over lava flow speed: 5
+[14:32:51] [Server thread/INFO]: Allow undead horse types to be leashed: true
+[14:32:51] [Server thread/INFO]: Remove invalid mob spawner tile entities: true
+[14:32:51] [Server thread/INFO]: Max height for cactus growth 3. Max height for reed growth 3
+[14:32:51] [Server thread/INFO]: Living Entity Despawn Ranges:  Soft: 28 Hard: 98
+[14:32:51] [Server thread/INFO]: Squids will spawn between Y: 45.0 and Y: 63.0
+[14:32:51] [Server thread/INFO]: Preparing start region for level 0 (Seed: 6424175260412866914)
+[14:32:51] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1;no_git_id
+[14:32:51] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[14:32:51] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.CraftBukkit_v1_7_R4 as the Bukkit adapter
+[14:32:51] [Server thread/INFO]: [Queue-Bukkit] Enabling Queue-Bukkit v1.0
+[14:32:51] [Server thread/INFO]: [cQueue] Practice QUEUE HAS LOADED!
+[14:32:51] [Server thread/INFO]: [cQueue] HCFactions QUEUE HAS LOADED!
+[14:32:51] [Server thread/INFO]: [cQueue] KitMap QUEUE HAS LOADED!
+[14:32:51] [Server thread/INFO]: [cQueue] OPFactions QUEUE HAS LOADED!
+[14:32:51] [Server thread/INFO]: [Redstone] Enabling Redstone v1.0
+[14:32:51] [Server thread/INFO]: [Hub] Enabling Hub v1.0
+[14:32:51] [Server thread/WARN]: [Server thread] INFO org.mongodb.driver.cluster - Cluster created with settings {hosts=[127.0.0.1:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+[14:32:51] [cluster-ClusterId{value='648764d307c1be08f4bd1830', description='null'}-127.0.0.1:27017/WARN]: [cluster-ClusterId{value='648764d307c1be08f4bd1830', description='null'}-127.0.0.1:27017] INFO org.mongodb.driver.connection - Opened connection [connectionId{localValue:4, serverValue:179}] to 127.0.0.1:27017
+[14:32:51] [cluster-ClusterId{value='648764d307c1be08f4bd1830', description='null'}-127.0.0.1:27017/WARN]: [cluster-ClusterId{value='648764d307c1be08f4bd1830', description='null'}-127.0.0.1:27017] INFO org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=127.0.0.1:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[6, 0, 6]}, minWireVersion=0, maxWireVersion=17, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=510100}
+[14:32:52] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:32:52] [Server thread/INFO]: Done (0.803s)! For help, type "help" or "?"
+[14:32:54] [ForkJoinPool.commonPool-worker-9/INFO]: [0;30;1m([0;34;1mPractice[0;30;1m) [0;36;1mis now online[0;36;1m.[m
+[14:32:55] [Thread-16/INFO]: Initiated queue `Practice`
+[14:32:55] [Thread-16/INFO]: Initiated server data `Practice`

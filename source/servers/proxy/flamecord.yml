@@ -1,0 +1,23 @@
+checks:
+  invalid_protocol: true
+  null_host_requests: true
+  invalid_ping: true
+  bad_packet_id: true
+  index_out_of_bounds_packets: true
+  unexpected_packets: true
+  too_big_packets: true
+  unreadable_packets: true
+  empty_packets: true
+console:
+  remove_exceptions: true
+  remove_warns: true
+  remove_connection_logs: true
+  dump_packets_on_exception: false
+firewall:
+  ip_blacklist:
+    blacklist_on_detection: true
+    notifications: true
+  clear_delay: 30000
+  username_blacklist:
+  - mcspam
+  - mcstorm

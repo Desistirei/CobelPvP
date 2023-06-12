@@ -1,0 +1,38 @@
+server:
+  id: Hub
+  hub: true
+
+redis:
+  host: "127.0.0.1"
+  port: 6379
+  password: ""
+
+priority:
+  default: 1
+  ranks:
+    Default:
+      priority: 1
+      permission: "queue.default"
+    Basic:
+      priority: 2
+      permission: "queue.basic"
+    Medium:
+      priority: 3
+      permission: "queue.medium"
+    High:
+      priority: 4
+      permission: "queue.high"
+    Owner:
+      priority: 5
+      permission: "queue.owner"
+
+language:
+  reminder:
+    - ""
+    - "&aYou are position &3#{position} &aof &3{total} &ain the &6{queue} &aqueue."
+    - "&fPurchase a rank at &6store.cobelpvp.com to get a higher queue priority."
+    - ""
+  added:
+    - "&aYou have joined the {queue} queue."
+  removed:
+    - "&cYou have been removed from the {queue} queue."

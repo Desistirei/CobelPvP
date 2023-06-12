@@ -1,0 +1,20 @@
+Redis:
+  Host: 'localhost'
+  DbId: 0
+
+BackboneRedis:
+  Host: 'localhost'
+  DbId: 0
+
+UUIDCache:
+  Backend: 'com.cobelpvp.atheneum.uuid.impl.RedisUUIDCache'
+
+NametagPacketRestriction:
+  Enabled: false
+  BypassPrefix: '&a'
+
+AutoRebootTimes:
+  - 0
+
+Command:
+  TimeThreshold: 10
