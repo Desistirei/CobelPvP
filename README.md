@@ -1,5 +1,4 @@
 # <p align="center"><b>CobelPvP</b></p>
-<p align="center">![cobel](https://github.com/Desistirei/CobelPvP/assets/35118711/42ae616e-e368-4ebf-a55c-41cae0cb659c)</p>
 
 # This repo contains all CobelPvP's source codes, which includes:
 - Atheneum (Libraries for all CobelPvP Projects.)
