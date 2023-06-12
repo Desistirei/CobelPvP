@@ -14,7 +14,7 @@
 - Redstone (not sure, probably some server handler)
 
 # You may notice a "servers" folder, it contains (almost) all the servers for Cobel.
-# It includes:
+It includes:
 - Hub
 - Practice
 - Proxy
