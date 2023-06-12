@@ -13,7 +13,7 @@
 - Queue-Bukkit (Queue Core)
 - Redstone (not sure, probably some server handler)
 
-# On the "servers" branch, will be included:
+# The "server" branch includes:
 - Hub
 - Practice
 - Proxy
