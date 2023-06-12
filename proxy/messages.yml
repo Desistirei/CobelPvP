@@ -1,0 +1,23 @@
+server_went_down: '&cThe server you were previously on went down, you have been connected
+  to a fallback server'
+name_invalid: Username contains invalid characters.
+lost_connection: '[Proxy] Lost connection to server.'
+already_connected_proxy: '&cYou are already connected to this proxy!'
+mojang_fail: Error occurred while contacting login servers, are they down?
+name_blacklisted: '&cUsername blacklisted'
+no_permission: '&cYou do not have permission to execute this command!'
+outdated_server: Outdated server! I'm still on %version%
+connect_kick_outdated_forge: Outdated Forge
+offline_mode_player: Not authenticated with Minecraft.net
+already_connected: '&cYou are already connected to this server!'
+fallback_kick: '&cCould not connect to a default or fallback server, please try again
+  later: %reason%'
+connect_kick: '&cKicked whilst connecting to %server%: &f%reason%'
+unexpected_packet: '&cExpected %expectedpacket% but was on %receivedpacket%'
+proxy_full: Server is full!
+restart: '[Proxy] Proxy restarting.'
+already_connecting: '&cAlready connecting to this server!'
+outdated_client: Outdated client! Please use %versions%
+name_too_long: Cannot have username longer than 16 characters
+fallback_lobby: '&cCould not connect to target server, you have been moved to a fallback
+  server.'

@@ -1,0 +1,62 @@
+oceans: false
+biome:
+  plains: false
+  desert: true
+  desert-hills: true
+  extreme-hills: true
+  extreme-hills-plus: true
+  forest: false
+  forest-hills: false
+  taiga: true
+  taiga-hills: true
+  swampland: false
+  ice-plains: true
+  ice-mountains: false
+  mushroom-island: true
+  jungle: false
+  jungle-hills: false
+  birch-forest: true
+  birch-forest-hills: true
+  roofed-forest: true
+  cold-taiga: true
+  cold-taiga-hills: true
+  mega-taiga: true
+  mega-taiga-hills: true
+  savanna: true
+  savanna-plateau: true
+  mesa: false
+  mesa-plateau-f: false
+  mesa-plateau: false
+spawn:
+  biome: savanna
+  radius: 900
+  rivers: false
+caves:
+  multiplier: 1.0
+ores:
+  coal:
+    multiplier: 4.0
+    size: 10
+    must-touch-air: false
+  iron:
+    multiplier: 10.0
+    size: 8
+    must-touch-air: false
+  gold:
+    multiplier: 11.0
+    size: 11
+    must-touch-air: false
+  redstone:
+    multiplier: 5.0
+    size: 7
+    must-touch-air: false
+  diamond:
+    multiplier: 16.0
+    size: 14
+    must-touch-air: false
+  lapis:
+    multiplier: 0.1
+    size: 1
+    must-touch-air: false
+sugar-cane:
+  multiplier: 1.5

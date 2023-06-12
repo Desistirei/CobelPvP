@@ -1,0 +1,4 @@
+Mongo:
+  Auth: false
+  Username: ''
+  Password: ''
