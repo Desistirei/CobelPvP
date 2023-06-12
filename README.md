@@ -1,4 +1,4 @@
-# <p align="center"><b>CobelPvP </b></p>
+# <p align="center"><b>CobelPvP</b></p>
 
 # This repo contains all CobelPvP's source codes, which includes:
 - Atheneum (Libraries for all CobelPvP Projects.)
