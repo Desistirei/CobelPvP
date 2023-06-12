@@ -13,7 +13,8 @@
 - Queue-Bukkit (Queue Core)
 - Redstone (not sure, probably some server handler)
 
-# On the "servers" branch, will be included:
+# You may notice a "servers" folder, it contains (almost) all the servers for Cobel.
+# It includes:
 - Hub
 - Practice
 - Proxy
