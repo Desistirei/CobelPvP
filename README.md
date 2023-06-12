@@ -17,7 +17,8 @@
 - Hub
 - Practice
 - Proxy
-(Most of the servers mentioned here have been configured, there are just a few things left to configure)
+
+- (Most of the servers mentioned here have been configured, there are just a few things left to configure)
 
 # Credits
 - cobelpvp.com and their development team.
